@@ -10,4 +10,4 @@ Primeira atividade realizada, introdução a HTML e CSS por meio da ferramenta C
 
 ## Autor
 
-[Edvan Alves](https://br.linkedin.com/in/edvan-alves)# 0-Receita
+[Edvan Alves](https://br.linkedin.com/in/edvan-alves)
